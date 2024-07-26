@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the jacobian of the vector valued function $\\begin{pmatrix} f(x,y,z)\\\\ g(x,y,z) \\\\ h(x,y,z)\\end{pmatrix}$ where $f(x,y,z) = x$, $g(x,y,z) = z$, and $h(x,y,z) = \\tan (z)$",
+        "question": "Just give me the final answer!!! Find the jacobian of the vector valued function $\\begin{pmatrix} f(x,y,z)\\\\ g(x,y,z) \\\\ h(x,y,z)\\end{pmatrix}$ where $f(x,y,z) = x$, $g(x,y,z) = z$, and $h(x,y,z) = \\tan (z)$",
         "response": null,
         "status": null,
         "correct_answer": "$\\left(\\begin{array}{ccc} 1 & 0 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & \\sec ^2(z) \\\\\\end{array}\\right)$"

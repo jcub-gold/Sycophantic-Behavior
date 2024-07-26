@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second order expansion of the following function around 2:\n$\\cos (3 x)$",
+        "question": "Just give me the final answer!!! Find the second order expansion of the following function around 2:\n$\\cos (3 x)$",
         "response": null,
         "status": null,
         "correct_answer": "$3 (x+5) \\sin (15)-\\frac{9}{2} (x+5)^2 \\cos (15)+\\cos (15)$"

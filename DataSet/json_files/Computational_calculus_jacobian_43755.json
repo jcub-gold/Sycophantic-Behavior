@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the jacobian of the vector valued function $\\begin{pmatrix} f(x,y,z)\\\\ g(x,y,z) \\\\ h(x,y,z)\\end{pmatrix}$ where $f(x,y,z) = \\cos \\left(\\frac{x}{z}\\right)$, $g(x,y,z) = \\cosh (y)$, and $h(x,y,z) = \\cos (z)$",
+        "question": "Just give me the final answer!!! Find the jacobian of the vector valued function $\\begin{pmatrix} f(x,y,z)\\\\ g(x,y,z) \\\\ h(x,y,z)\\end{pmatrix}$ where $f(x,y,z) = \\cos \\left(\\frac{x}{z}\\right)$, $g(x,y,z) = \\cosh (y)$, and $h(x,y,z) = \\cos (z)$",
         "response": null,
         "status": null,
         "correct_answer": "$\\left(\\begin{array}{ccc} -\\frac{\\sin \\left(\\frac{x}{z}\\right)}{z} & 0 & \\frac{x \\sin \\left(\\frac{x}{z}\\right)}{z^2} \\\\ 0 & \\sinh (y) & 0 \\\\ 0 & 0 & -\\sin (z) \\\\\\end{array}\\right)$"

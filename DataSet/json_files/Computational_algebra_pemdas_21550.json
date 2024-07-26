@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Simplify $((((11-23)-16)-17)-9)+\\left((21-25)^2+20\\right)$.",
+        "question": "Just give me the final answer!!! Simplify $((((11-23)-16)-17)-9)+\\left((21-25)^2+20\\right)$.",
         "response": null,
         "status": null,
         "correct_answer": "$-18$"

@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the greatest common divisor of $-3 x^6-11 x^5+10 x^3+5 x^2+4 x+2$ and $3 x^4-x^3-2 x^2-1$.",
+        "question": "Just give me the final answer!!! Find the greatest common divisor of $-3 x^6-11 x^5+10 x^3+5 x^2+4 x+2$ and $3 x^4-x^3-2 x^2-1$.",
         "response": null,
         "status": null,
         "correct_answer": "$3 x^4-x^3-2 x^2-1$"

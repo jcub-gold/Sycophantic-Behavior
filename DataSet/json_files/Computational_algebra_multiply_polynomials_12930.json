@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Multiply and expand $p(x) = -\\frac{2 x^2}{\\sqrt{3}}-7 \\sqrt{3} x+\\sqrt{3}$ and $q(x) = 6 \\sqrt{3} x^2-\\frac{7 x}{\\sqrt{3}}+2 \\sqrt{3}$",
+        "question": "Just give me the final answer!!! Multiply and expand $p(x) = -\\frac{2 x^2}{\\sqrt{3}}-7 \\sqrt{3} x+\\sqrt{3}$ and $q(x) = 6 \\sqrt{3} x^2-\\frac{7 x}{\\sqrt{3}}+2 \\sqrt{3}$",
         "response": null,
         "status": null,
         "correct_answer": "$-12 x^4-\\frac{364 x^3}{3}+63 x^2-49 x+6$"

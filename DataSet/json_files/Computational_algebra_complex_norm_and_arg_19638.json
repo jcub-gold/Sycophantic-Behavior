@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the norm and argument (phase angle in radians) of $-2 \\left(-\\cos \\left(\\frac{7 \\pi }{180}\\right)+i \\sin \\left(\\frac{7 \\pi }{180}\\right)\\right)$.",
+        "question": "Just give me the final answer!!! Find the norm and argument (phase angle in radians) of $-2 \\left(-\\cos \\left(\\frac{7 \\pi }{180}\\right)+i \\sin \\left(\\frac{7 \\pi }{180}\\right)\\right)$.",
         "response": null,
         "status": null,
         "correct_answer": "Norm: $2 \\sqrt{\\sin ^2\\left(\\frac{7 \\pi }{180}\\right)+\\cos ^2\\left(\\frac{7 \\pi }{180}\\right)}$, Argument: $-\\frac{7 \\pi }{180}$"

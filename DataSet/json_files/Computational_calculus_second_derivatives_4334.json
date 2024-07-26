@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second derivative of the following function: $e^{-6 x-6}-\\sqrt{1-x}$",
+        "question": "Just give me the final answer!!! Find the second derivative of the following function: $e^{-6 x-6}-\\sqrt{1-x}$",
         "response": null,
         "status": null,
         "correct_answer": "$36 e^{-6 (x+1)}+\\frac{1}{4 (1-x)^{3/2}}$"

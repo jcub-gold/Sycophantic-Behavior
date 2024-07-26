@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Complete the square for the following quadratic: $-4 x^2-12 x-2$",
+        "question": "Just give me the final answer!!! Complete the square for the following quadratic: $-4 x^2-12 x-2$",
         "response": null,
         "status": null,
         "correct_answer": "$7-4 \\left(x+\\frac{3}{2}\\right)^2$"

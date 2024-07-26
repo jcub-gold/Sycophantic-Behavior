@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find all real solutions to $\\frac{-4 \\sqrt{5} x^2+\\sqrt{5} x+6 \\sqrt{5}}{-5 \\sqrt{5} x-6 \\sqrt{5}}=0$",
+        "question": "Just give me the final answer!!! Find all real solutions to $\\frac{-4 \\sqrt{5} x^2+\\sqrt{5} x+6 \\sqrt{5}}{-5 \\sqrt{5} x-6 \\sqrt{5}}=0$",
         "response": null,
         "status": null,
         "correct_answer": "$\\left\\{\\left\\{x\\to \\frac{1}{8} \\left(1-\\sqrt{97}\\right)\\right\\},\\left\\{x\\to \\frac{1}{8} \\left(1+\\sqrt{97}\\right)\\right\\}\\right\\}$"

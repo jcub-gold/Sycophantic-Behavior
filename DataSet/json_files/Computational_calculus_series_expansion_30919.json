@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second order expansion of the following function around 2:\n$\\tanh (2 x)$",
+        "question": "Just give me the final answer!!! Find the second order expansion of the following function around 2:\n$\\tanh (2 x)$",
         "response": null,
         "status": null,
         "correct_answer": "$4 (x-5)^2 \\left(\\tanh ^3(10)-\\tanh (10)\\right)+(x-5) \\left(2-2 \\tanh ^2(10)\\right)+\\tanh (10)$"

@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find all real solutions to $4^{-4 x-23}4^{12-14 x} = 4^{14 x+2}$",
+        "question": "Just give me the final answer!!! Find all real solutions to $4^{-4 x-23}4^{12-14 x} = 4^{14 x+2}$",
         "response": null,
         "status": null,
         "correct_answer": "$\\left\\{\\left\\{x\\to -\\frac{13}{32}\\right\\}\\right\\}$"

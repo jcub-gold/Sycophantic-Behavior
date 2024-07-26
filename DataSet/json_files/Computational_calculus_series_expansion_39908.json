@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second order expansion of the following function around 2:\n$-243 x^5$",
+        "question": "Just give me the final answer!!! Find the second order expansion of the following function around 2:\n$-243 x^5$",
         "response": null,
         "status": null,
         "correct_answer": "$-2430 (x-1)^2-1215 (x-1)-243$"

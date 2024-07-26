@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Factor the following cubic polynomial: $9 x^3+90 x^2-468 x+504$",
+        "question": "Just give me the final answer!!! Factor the following cubic polynomial: $9 x^3+90 x^2-468 x+504$",
         "response": null,
         "status": null,
         "correct_answer": "$9 (2-x)^2 (x+14)$"

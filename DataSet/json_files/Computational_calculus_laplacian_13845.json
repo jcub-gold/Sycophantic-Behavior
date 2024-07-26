@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \\sqrt[3]{x+y+z}$",
+        "question": "Just give me the final answer!!! Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \\sqrt[3]{x+y+z}$",
         "response": null,
         "status": null,
         "correct_answer": "$-\\frac{2}{3 (x+y+z) \\sqrt[3]{x+y+z}^2}$"

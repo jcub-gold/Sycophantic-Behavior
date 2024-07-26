@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find all real solutions to $\\frac{\\log \\left(x+\\frac{21}{2}\\right)}{\\log (2)}+\\frac{\\log (23-10 x)}{\\log (2)}=\\frac{\\log \\left(\\frac{35 x}{2}-6\\right)}{\\log (2)}$",
+        "question": "Just give me the final answer!!! Find all real solutions to $\\frac{\\log \\left(x+\\frac{21}{2}\\right)}{\\log (2)}+\\frac{\\log (23-10 x)}{\\log (2)}=\\frac{\\log \\left(\\frac{35 x}{2}-6\\right)}{\\log (2)}$",
         "response": null,
         "status": null,
         "correct_answer": "$\\left\\{\\left\\{x\\to \\frac{1}{40} \\left(-199-\\sqrt{79201}\\right)\\right\\},\\left\\{x\\to \\frac{1}{40} \\left(-199+\\sqrt{79201}\\right)\\right\\}\\right\\}$"

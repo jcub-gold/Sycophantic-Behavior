@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Evaluate the function $f(x)=\\cos \\left(4-7 x^4\\right)$ at the point $x=-4$",
+        "question": "Just give me the final answer!!! Evaluate the function $f(x)=\\cos \\left(4-7 x^4\\right)$ at the point $x=-4$",
         "response": null,
         "status": null,
         "correct_answer": "$\\cos (1788) = -0.907$"

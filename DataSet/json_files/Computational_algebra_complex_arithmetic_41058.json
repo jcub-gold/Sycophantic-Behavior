@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find $\\frac{x}{y}$ where $x=-\\frac{6+5 i}{\\sqrt{2}}$ and $y=-\\frac{9+11 i}{\\sqrt{2}}$",
+        "question": "Just give me the final answer!!! Find $\\frac{x}{y}$ where $x=-\\frac{6+5 i}{\\sqrt{2}}$ and $y=-\\frac{9+11 i}{\\sqrt{2}}$",
         "response": null,
         "status": null,
         "correct_answer": "$\\frac{109}{202}-\\frac{21 i}{202}$"

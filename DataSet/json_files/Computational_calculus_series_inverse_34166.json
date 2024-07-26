@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second order series of the inverse of the following function around 2: $2^{2/3} \\sqrt[3]{x}$",
+        "question": "Just give me the final answer!!! Find the second order series of the inverse of the following function around 2: $2^{2/3} \\sqrt[3]{x}$",
         "response": null,
         "status": null,
         "correct_answer": "$\\frac{3}{2} (x-2)^2+3 (x-2)+2$"

@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Compute the following expression: $\\sum_{k=0}^3 77\\frac{1}{7}^k$",
+        "question": "Just give me the final answer!!! Compute the following expression: $\\sum_{k=0}^3 77\\frac{1}{7}^k$",
         "response": null,
         "status": null,
         "correct_answer": "$\\frac{4400}{49}$"

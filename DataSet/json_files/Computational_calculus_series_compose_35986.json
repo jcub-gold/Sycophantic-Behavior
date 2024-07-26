@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second order expansion about $x = 4$ of the composition $f(g(x))$ for $f(x) = x^4$ and $g(x) = $\\cos (x)$",
+        "question": "Just give me the final answer!!! Find the second order expansion about $x = 4$ of the composition $f(g(x))$ for $f(x) = x^4$ and $g(x) = $\\cos (x)$",
         "response": null,
         "status": null,
         "correct_answer": "$(x-4) (256+\\sin (4))+(x-4)^2 \\left(96+\\frac{\\cos (4)}{2}\\right)+256-\\cos (4)$"

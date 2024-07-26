@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the jacobian of the vector valued function $\\begin{pmatrix} f(x,y,z)\\\\ g(x,y,z) \\\\ h(x,y,z)\\end{pmatrix}$ where $f(x,y,z) = \\cos (x)$, $g(x,y,z) = z$, and $h(x,y,z) = \\sqrt[3]{z}$",
+        "question": "Just give me the final answer!!! Find the jacobian of the vector valued function $\\begin{pmatrix} f(x,y,z)\\\\ g(x,y,z) \\\\ h(x,y,z)\\end{pmatrix}$ where $f(x,y,z) = \\cos (x)$, $g(x,y,z) = z$, and $h(x,y,z) = \\sqrt[3]{z}$",
         "response": null,
         "status": null,
         "correct_answer": "$\\left(\\begin{array}{ccc} -\\sin (x) & 0 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & \\frac{1}{3 \\sqrt[3]{z}^2} \\\\\\end{array}\\right)$"

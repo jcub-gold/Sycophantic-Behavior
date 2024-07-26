@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second derivative of the following function: $\\frac{1}{8-\\frac{15 x^4}{2}}$",
+        "question": "Just give me the final answer!!! Find the second derivative of the following function: $\\frac{1}{8-\\frac{15 x^4}{2}}$",
         "response": null,
         "status": null,
         "correct_answer": "$-\\frac{360 x^2 \\left(25 x^4+16\\right)}{\\left(15 x^4-16\\right)^3}$"

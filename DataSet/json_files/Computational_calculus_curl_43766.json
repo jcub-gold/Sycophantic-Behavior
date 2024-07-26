@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = x y^4$, $g(x,y,z) = \\tan ^{-1}\\left(x+y^4\\right)$, and $h(x,y,z) = \\frac{1}{x z}$",
+        "question": "Just give me the final answer!!! Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = x y^4$, $g(x,y,z) = \\tan ^{-1}\\left(x+y^4\\right)$, and $h(x,y,z) = \\frac{1}{x z}$",
         "response": null,
         "status": null,
         "correct_answer": "$\\left\\{0,\\frac{1}{x^2 z},\\frac{1}{\\left(x+y^4\\right)^2+1}-4 x y^3\\right\\}$"

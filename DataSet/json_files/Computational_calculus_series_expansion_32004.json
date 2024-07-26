@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second order expansion of the following function around 2:\n$e^{-x}$",
+        "question": "Just give me the final answer!!! Find the second order expansion of the following function around 2:\n$e^{-x}$",
         "response": null,
         "status": null,
         "correct_answer": "$\\frac{x^2}{2}-x+1$"

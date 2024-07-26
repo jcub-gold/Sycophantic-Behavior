@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second derivative of the following function: $\\log \\left(e^{\\frac{1}{2}-\\frac{7 x}{2}}\\right)$",
+        "question": "Just give me the final answer!!! Find the second derivative of the following function: $\\log \\left(e^{\\frac{1}{2}-\\frac{7 x}{2}}\\right)$",
         "response": null,
         "status": null,
         "correct_answer": "$0$"

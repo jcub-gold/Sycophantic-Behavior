@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Solve for $y=f(x)$ given the following parametric equations: $y(t)=49 t^2+210 t+230, x(t)=49 t^2+210 t+225$",
+        "question": "Just give me the final answer!!! Solve for $y=f(x)$ given the following parametric equations: $y(t)=49 t^2+210 t+230, x(t)=49 t^2+210 t+225$",
         "response": null,
         "status": null,
         "correct_answer": "$y=x+5$"

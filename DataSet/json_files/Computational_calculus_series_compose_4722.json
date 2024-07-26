@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the second order expansion about $x = -4$ of the composition $f(g(x))$ for $f(x) = e^x$ and $g(x) = $e^x$",
+        "question": "Just give me the final answer!!! Find the second order expansion about $x = -4$ of the composition $f(g(x))$ for $f(x) = e^x$ and $g(x) = $e^x$",
         "response": null,
         "status": null,
         "correct_answer": "$\\frac{2 (x+4)^2}{e^8}+\\frac{2 (x+4)}{e^8}+\\frac{1}{e^8}$"

@@ -1,7 +1,7 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the roots of the following polynomial: $3 \\sqrt{3} x^2+\\frac{13 x}{\\sqrt{3}}-\\frac{17}{\\sqrt{3}}$",
+        "question": "Just give me the final answer!!! Find the roots of the following polynomial: $3 \\sqrt{3} x^2+\\frac{13 x}{\\sqrt{3}}-\\frac{17}{\\sqrt{3}}$",
         "response": null,
         "status": null,
         "correct_answer": "$x=\\frac{1}{6} \\left(-\\frac{13}{3}-\\frac{\\sqrt{781}}{3}\\right)\\lor x=\\frac{1}{6} \\left(\\frac{\\sqrt{781}}{3}-\\frac{13}{3}\\right)$"
