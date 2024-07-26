@@ -1,7 +1,7 @@
 import unittest
-from Message import Message
-from Prompt_List import Prompt_List
-from OpenAI_API import OpenAI_API
+from Src.ExternalModelsAPI.Message import Message
+from Src.ExternalModelsAPI.Prompt_List import Prompt_List
+from Src.ExternalModelsAPI.OpenAI_API import OpenAI_API
 
 class TestMessage(unittest.TestCase):
     def test_proper_initialization(self):

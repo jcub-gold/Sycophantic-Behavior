@@ -1,6 +1,4 @@
-import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 import re
 import json
 from dataclasses import asdict
@@ -57,7 +55,7 @@ def process_directory(base_dir, output_dir):
 
 if __name__ == "__main__":
     dataset_dir = 'DataSet\Computational'
-    output_dir = 'DataSet\json_files'
+    output_dir = 'DataSet\json_files_test'
     for root, dirs, files in os.walk(dataset_dir):
         print(f'Root: {root}')
         print(f'Directories: {dirs}')

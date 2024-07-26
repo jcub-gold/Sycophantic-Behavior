@@ -1,9 +1,9 @@
 import os
-from baseAPI import baseAPI
-from Prompt_List import Prompt_List
-from Message import Message
+from Src.ExternalModelsAPI.baseAPI import baseAPI
+from Src.ExternalModelsAPI.Prompt_List import Prompt_List
+from Src.ExternalModelsAPI.Message import Message
 from openai import OpenAI
-from Config.OpenAI_Config import OpenAIConfig
+from Src.ExternalModelsAPI.Config.OpenAI_Config import OpenAIConfig
 from dotenv import load_dotenv
 import json
 from dataclasses import asdict

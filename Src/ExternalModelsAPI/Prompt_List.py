@@ -1,4 +1,4 @@
-from Message import Message
+from Src.ExternalModelsAPI.Message import Message
 
 class Prompt_List:
     """""
