@@ -1,0 +1,4 @@
+Problem:
+Find the second order series of the inverse of the following function around 2: $2^{2/3} \sqrt[3]{x}$
+Answer:
+$\frac{3}{2} (x-2)^2+3 (x-2)+2$

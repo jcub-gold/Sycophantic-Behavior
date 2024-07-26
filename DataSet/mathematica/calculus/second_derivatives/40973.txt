@@ -1,0 +1,4 @@
+Problem:
+Find the second derivative of the following function: $\sqrt[3]{7 x^5+9}$
+Answer:
+$\frac{70 x^3 \left(7 x^5+54\right)}{9 \left(7 x^5+9\right) \sqrt[3]{7 x^5+9}^2}$

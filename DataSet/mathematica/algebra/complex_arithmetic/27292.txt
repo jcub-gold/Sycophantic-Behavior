@@ -1,0 +1,4 @@
+Problem:
+Find $x \cdot y$ where $x=\frac{5-3 i}{\sqrt{\pi }}$ and $y=\frac{7+8 i}{\sqrt{\pi }}$
+Answer:
+$\frac{59+19 i}{\pi }$

@@ -1,0 +1,4 @@
+Problem:
+Factor the following cubic polynomial: $9 x^3+90 x^2-468 x+504$
+Answer:
+$9 (2-x)^2 (x+14)$

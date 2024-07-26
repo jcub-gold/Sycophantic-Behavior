@@ -1,0 +1,4 @@
+Problem:
+Find the sum $p(x) + q(x)$ of the following two polynomials: $p(x) = -3 x^2+7 x+3$, $q(x) = -10 x^2-x-14$
+Answer:
+$-13 x^2+6 x-11$

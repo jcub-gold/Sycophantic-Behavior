@@ -1,0 +1,4 @@
+Problem:
+Find the arclength of the function $f(x) = 1$ on the interval $x = 0$ to $x = 10$
+Answer:
+$10$

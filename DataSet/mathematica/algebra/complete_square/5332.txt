@@ -1,0 +1,4 @@
+Problem:
+Complete the square for the following quadratic: $-4 x^2-12 x-2$
+Answer:
+$7-4 \left(x+\frac{3}{2}\right)^2$

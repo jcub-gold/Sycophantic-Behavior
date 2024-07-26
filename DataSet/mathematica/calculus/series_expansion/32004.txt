@@ -1,0 +1,5 @@
+Problem:
+Find the second order expansion of the following function around 2:
+$e^{-x}$
+Answer:
+$\frac{x^2}{2}-x+1$

@@ -1,0 +1,4 @@
+Problem:
+Simplify $\left(\left(\left(\frac{15}{24}+24\right)-20\right)+20\right)^2 \frac{2-20}{11}$.
+Answer:
+$-\frac{349281}{352}$

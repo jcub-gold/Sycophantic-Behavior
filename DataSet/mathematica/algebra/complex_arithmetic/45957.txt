@@ -1,0 +1,4 @@
+Problem:
+Find $\frac{x}{y}$ where $x=(1+i) \sqrt{5}$ and $y=(-3-i) \sqrt{5}$
+Answer:
+$-\frac{2}{5}-\frac{i}{5}$

@@ -1,0 +1,4 @@
+Problem:
+Differentiate the following function: $\sqrt{\frac{7}{2}-\frac{x}{2}}+\log (-8 x-7)$
+Answer:
+$\frac{8}{8 x+7}-\frac{1}{4 \sqrt{\frac{7}{2}-\frac{x}{2}}}$

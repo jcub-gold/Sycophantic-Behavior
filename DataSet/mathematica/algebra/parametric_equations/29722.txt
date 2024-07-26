@@ -1,0 +1,4 @@
+Problem:
+Solve for $y=f(x)$ given the following parametric equations: $y(t)=54 t^2+540 t+1349, x(t)=9 t^2+90 t+225$
+Answer:
+$y=6 x-1$

@@ -1,0 +1,4 @@
+Problem:
+Find the second derivative of the following function: $\log \left(e^{\frac{1}{2}-\frac{7 x}{2}}\right)$
+Answer:
+$0$

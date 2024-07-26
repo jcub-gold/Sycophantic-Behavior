@@ -1,0 +1,4 @@
+Problem:
+Find the divergence of the vector field $f(x,y,z)\uvec{i} + g(x,y,z)\uvec{j} + h(x,y,z)\uvec{k}$ where $f(x,y,z) = \sin (x)$, $g(x,y,z) = \frac{1}{y^2}$, and $h(x,y,z) = \frac{1}{x^2}$
+Answer:
+$\cos (x)-\frac{2}{y^3}$

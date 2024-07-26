@@ -1,0 +1,4 @@
+Problem:
+Find all real solutions to $6^{-\frac{21 x}{2}-23}6^{\frac{89 x}{4}-\frac{27}{2}} = 6^{\frac{53 x}{4}+5}$
+Answer:
+$\left\{\left\{x\to -\frac{83}{3}\right\}\right\}$

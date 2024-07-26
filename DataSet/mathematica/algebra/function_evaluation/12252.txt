@@ -1,0 +1,4 @@
+Problem:
+Evaluate the function $f(x)=-\frac{\sin ^{-1}\left(6-6 x^3\right)}{(3 x-5)^3}$ at the point $x=22$
+Answer:
+$\frac{\sin ^{-1}(63882)}{226981} = 0.$

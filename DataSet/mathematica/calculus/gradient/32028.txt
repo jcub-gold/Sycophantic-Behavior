@@ -1,0 +1,4 @@
+Problem:
+Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \sin ^{-1}(x y-z)$
+Answer:
+$\left\{\frac{y}{\sqrt{1-(x y-z)^2}},\frac{x}{\sqrt{1-(x y-z)^2}},-\frac{1}{\sqrt{1-(x y-z)^2}}\right\}$

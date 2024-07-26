@@ -1,0 +1,4 @@
+Problem:
+Simplify $((((20+6)+25)+14)-14)-\frac{8-17}{7}$.
+Answer:
+$\frac{366}{7}$

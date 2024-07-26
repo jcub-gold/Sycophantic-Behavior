@@ -1,0 +1,4 @@
+Problem:
+Factor the following quadratic: $3 x^2+57 x+252$
+Answer:
+$-3 (-x-7) (x+12)$

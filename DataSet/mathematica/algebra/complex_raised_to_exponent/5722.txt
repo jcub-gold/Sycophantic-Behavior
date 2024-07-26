@@ -1,0 +1,4 @@
+Problem:
+Simplify the following expression $\left(-8 \left(\cos \left(\frac{59}{45}\right)+i \sin \left(\frac{59}{45}\right)\right)\right)^12$
+Answer:
+$68719476736 \left(\cos \left(\frac{236}{15}\right)+i \sin \left(\frac{236}{15}\right)\right)$

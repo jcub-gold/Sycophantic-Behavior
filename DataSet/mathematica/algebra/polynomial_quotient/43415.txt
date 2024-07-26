@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $7 x^4-7 x^3-7 x^2-5 x+6$ when divided by $-9 x^2+x-9$.
+Answer:
+$-\frac{7 x^2}{9}+\frac{56 x}{81}+\frac{1190}{729}$

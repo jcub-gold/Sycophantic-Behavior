@@ -1,0 +1,4 @@
+Problem:
+Solve for $y=f(x)$ given the following parametric equations: $y(t)=49 t^2+210 t+230, x(t)=49 t^2+210 t+225$
+Answer:
+$y=x+5$

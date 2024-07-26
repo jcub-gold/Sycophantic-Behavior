@@ -1,0 +1,4 @@
+Problem:
+Solve for $y=f(x)$ given the following parametric equations: $y(t)=\frac{1}{25} (399-110 t)^2, x(t)=\frac{22 t}{5}-15$
+Answer:
+$y=25 x^2-48 x+\frac{576}{25}$

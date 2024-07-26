@@ -1,0 +1,5 @@
+Problem:
+Find the second order expansion of the following function around 2:
+$\cos (3 x)$
+Answer:
+$3 (x+5) \sin (15)-\frac{9}{2} (x+5)^2 \cos (15)+\cos (15)$

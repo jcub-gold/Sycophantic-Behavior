@@ -1,0 +1,4 @@
+Problem:
+Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \log (z)$
+Answer:
+$-\frac{1}{z^2}$

@@ -1,0 +1,4 @@
+Problem:
+Find the first order expansion about $x = 2$ of the composition $f(g(x))$ for $f(x) = \sqrt{x}$ and $g(x) = $e^x$
+Answer:
+$\left(\frac{1}{2 \sqrt{2}}+e^2\right) (x-2)+e^2+\sqrt{2}$

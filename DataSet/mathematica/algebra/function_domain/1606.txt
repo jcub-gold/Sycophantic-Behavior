@@ -1,0 +1,4 @@
+Problem:
+Find the domain of the following function: $\tan (2 x)$
+Answer:
+$\frac{2 x}{\pi }+\frac{1}{2}\notin \mathbb{Z}$

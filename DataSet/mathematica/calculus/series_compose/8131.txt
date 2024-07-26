@@ -1,0 +1,4 @@
+Problem:
+Find the third order expansion about $x = 0$ of the composition $f(g(x))$ for $f(x) = e^x$ and $g(x) = $e^x$
+Answer:
+$0$

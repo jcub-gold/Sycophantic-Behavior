@@ -1,0 +1,4 @@
+Problem:
+Find the second order expansion about $x = -4$ of the composition $f(g(x))$ for $f(x) = e^x$ and $g(x) = $e^x$
+Answer:
+$\frac{2 (x+4)^2}{e^8}+\frac{2 (x+4)}{e^8}+\frac{1}{e^8}$

@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $-\sin ^{-1}\left(\frac{13}{2}-\frac{3 x}{2}\right)=0$
+Answer:
+$\left\{\left\{x\to \frac{13}{3}\right\}\right\}$

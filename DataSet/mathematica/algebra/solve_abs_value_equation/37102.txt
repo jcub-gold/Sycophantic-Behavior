@@ -1,0 +1,4 @@
+Problem:
+Find all real solutions to $\left| \frac{79 x^2}{7}+\frac{27 x}{7}-\frac{115}{7}\right| =-\frac{79}{7}$
+Answer:
+$\{\}$

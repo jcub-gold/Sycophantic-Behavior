@@ -1,0 +1,4 @@
+Problem:
+Differentiate the following function: $\frac{\cos (3 x+4)}{\sqrt[3]{7 x^3+5}}$
+Answer:
+$\frac{-3 \left(7 x^3+5\right) \sin (3 x+4)-7 x^2 \cos (3 x+4)}{\left(7 x^3+5\right) \sqrt[3]{7 x^3+5}}$

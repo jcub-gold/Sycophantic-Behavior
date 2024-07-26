@@ -1,0 +1,4 @@
+Problem:
+Find all real solutions to $\left| 8 x-\frac{1}{2}\right| =\frac{99}{4}$
+Answer:
+$\left\{\left\{x\to -\frac{97}{32}\right\},\left\{x\to \frac{101}{32}\right\}\right\}$

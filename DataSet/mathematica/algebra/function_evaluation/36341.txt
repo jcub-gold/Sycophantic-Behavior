@@ -1,0 +1,4 @@
+Problem:
+Evaluate the function $f(x)=\cos \left(4-7 x^4\right)$ at the point $x=-4$
+Answer:
+$\cos (1788) = -0.907$

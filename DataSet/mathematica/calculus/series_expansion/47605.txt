@@ -1,0 +1,5 @@
+Problem:
+Find the second order expansion of the following function around 2:
+$\tanh (3 x)+1$
+Answer:
+$9 (x-5)^2 \left(\tanh ^3(15)-\tanh (15)\right)+(x-5) \left(3-3 \tanh ^2(15)\right)+1+\tanh (15)$

@@ -1,0 +1,4 @@
+Problem:
+Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \tan ^{-1}(x)$
+Answer:
+$\left\{\frac{1}{x^2+1},0,0\right\}$

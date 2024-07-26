@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{2 x^2}{3}-\frac{38 x}{3}+\frac{38}{3}$
+Answer:
+$x=\frac{1}{2} \left(-19-\sqrt{437}\right)\lor x=\frac{1}{2} \left(\sqrt{437}-19\right)$

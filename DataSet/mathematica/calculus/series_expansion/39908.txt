@@ -1,0 +1,5 @@
+Problem:
+Find the second order expansion of the following function around 2:
+$-243 x^5$
+Answer:
+$-2430 (x-1)^2-1215 (x-1)-243$

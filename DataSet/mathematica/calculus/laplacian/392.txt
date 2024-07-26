@@ -1,0 +1,4 @@
+Problem:
+Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \sqrt{z (x-y)}$
+Answer:
+$-\frac{z^2}{2 (z (x-y))^{3/2}}-\frac{(x-y)^2}{4 (z (x-y))^{3/2}}$

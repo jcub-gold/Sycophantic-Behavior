@@ -1,0 +1,4 @@
+Problem:
+Find all real solutions to $\left| \frac{47}{3}-\frac{41 x}{3}\right| =3$
+Answer:
+$\left\{\left\{x\to \frac{38}{41}\right\},\left\{x\to \frac{56}{41}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \sqrt[3]{x+y+z}$
+Answer:
+$-\frac{2}{3 (x+y+z) \sqrt[3]{x+y+z}^2}$

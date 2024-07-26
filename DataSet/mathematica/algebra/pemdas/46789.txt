@@ -1,0 +1,4 @@
+Problem:
+Simplify $(((11+23)+19)+6)^2 \left(\left(\left(\frac{5}{13}-23\right)^2-2\right)-4\right)$.
+Answer:
+$\frac{297353982}{169}$

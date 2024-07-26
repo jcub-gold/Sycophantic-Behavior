@@ -1,0 +1,4 @@
+Problem:
+Simplify $((((11-23)-16)-17)-9)+\left((21-25)^2+20\right)$.
+Answer:
+$-18$

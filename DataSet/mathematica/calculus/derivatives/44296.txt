@@ -1,0 +1,4 @@
+Problem:
+Differentiate the following function: $\sqrt[3]{-3 x-2} \cos (6 x+4)$
+Answer:
+$\frac{6 (3 x+2) \sin (6 x+4)-\cos (6 x+4)}{\sqrt[3]{-3 x-2}^2}$

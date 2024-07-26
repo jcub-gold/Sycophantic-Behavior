@@ -1,0 +1,4 @@
+Problem:
+Find $\frac{x}{y}$ where $x=-\frac{6+5 i}{\sqrt{2}}$ and $y=-\frac{9+11 i}{\sqrt{2}}$
+Answer:
+$\frac{109}{202}-\frac{21 i}{202}$

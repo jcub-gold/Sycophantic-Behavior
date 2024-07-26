@@ -1,0 +1,4 @@
+Problem:
+Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = e^{x-y+z}$
+Answer:
+$\left\{e^{x-y+z},-e^{x-y+z},e^{x-y+z}\right\}$

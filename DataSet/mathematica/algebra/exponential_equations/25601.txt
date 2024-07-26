@@ -1,0 +1,4 @@
+Problem:
+Find all real solutions to $4^{-4 x-23}4^{12-14 x} = 4^{14 x+2}$
+Answer:
+$\left\{\left\{x\to -\frac{13}{32}\right\}\right\}$

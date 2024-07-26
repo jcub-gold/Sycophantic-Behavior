@@ -1,0 +1,4 @@
+Problem:
+Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \frac{1}{x y z}$
+Answer:
+$\left\{-\frac{1}{x^2 y z},-\frac{1}{x y^2 z},-\frac{1}{x y z^2}\right\}$

@@ -1,0 +1,5 @@
+Problem:
+Find the second order expansion of the following function around 2:
+$\tanh (2 x)$
+Answer:
+$4 (x-5)^2 \left(\tanh ^3(10)-\tanh (10)\right)+(x-5) \left(2-2 \tanh ^2(10)\right)+\tanh (10)$

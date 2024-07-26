@@ -1,0 +1,4 @@
+Problem:
+Find an indefinite integral (which can vary by a constant) of the following function: $-\frac{26 x}{15 \left(\frac{13 x^2}{5}+\frac{29}{5}\right)^{2/3}}$
+Answer:
+$-\frac{39 x^2+87}{15 \sqrt[3]{-\frac{13 x^2}{5}-\frac{29}{5}}^2}$

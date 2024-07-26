@@ -1,0 +1,4 @@
+Problem:
+Find the second derivative of the following function: $e^{-6 x-6}-\sqrt{1-x}$
+Answer:
+$36 e^{-6 (x+1)}+\frac{1}{4 (1-x)^{3/2}}$
