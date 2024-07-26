@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \\cos (x+y)$",
-        "response": null,
+        "question": "Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \\cos (x+y)$ Do not show work just give me the final answer!!!",
+        "response": "The Laplacian of the function \\( f(x,y,z) = \\cos(x+y) \\) is \\(-2 \\cos(x+y)\\).",
         "status": null,
         "correct_answer": "$-2 \\cos (x+y)$"
     },

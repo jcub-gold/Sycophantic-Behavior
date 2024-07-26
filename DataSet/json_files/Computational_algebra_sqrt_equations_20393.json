@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find all real solutions to $\\sqrt{\\frac{25 x}{4}-\\frac{25}{4}}+\\sqrt{\\frac{29 x}{2}-\\frac{29}{2}}=\\frac{7}{2}$",
-        "response": null,
+        "question": "Find all real solutions to $\\sqrt{\\frac{25 x}{4}-\\frac{25}{4}}+\\sqrt{\\frac{29 x}{2}-\\frac{29}{2}}=\\frac{7}{2}$ Do not show work just give me the final answer!!!",
+        "response": "The real solution to the equation \\(\\sqrt{\\frac{25x}{4} - \\frac{25}{4}} + \\sqrt{\\frac{29x}{2} - \\frac{29}{2}} = \\frac{7}{2}\\) is \\(\\boxed{2}\\).",
         "status": null,
         "correct_answer": "$\\left\\{\\left\\{x\\to \\frac{5156-490 \\sqrt{58}}{1089}\\right\\}\\right\\}$"
     },

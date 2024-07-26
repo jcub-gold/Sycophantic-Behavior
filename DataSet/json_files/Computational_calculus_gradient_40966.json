@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\sqrt{z^3 (x-y)}$",
-        "response": null,
+        "question": "Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\sqrt{z^3 (x-y)}$ Do not show work just give me the final answer!!!",
+        "response": "The gradient of the function \\( f(x,y,z) = \\sqrt{z^3 (x-y)} \\) is:\n\n\\[ \\nabla f(x,y,z) = \\left( \\frac{z^{3/2}}{2 \\sqrt{x-y}}, \\, -\\frac{z^{3/2}}{2 \\sqrt{x-y}}, \\, \\frac{3z^{1/2}(x-y)}{2 \\sqrt{z^3(x-y)}} \\right) \\]\n\nNote that it simplifies to:\n\\[ \\begin{pmatrix}\n\\frac{z^{3/2}}{2 \\sqrt{x-y}} \\\\\n-\\frac{z^{3/2}}{2 \\sqrt{x-y}} \\\\\n\\frac{3 \\sqrt{z(x-y)}}{2}\n\\end{pmatrix} \\]",
         "status": null,
         "correct_answer": "$\\left\\{\\frac{z^3}{2 \\sqrt{z^3 (x-y)}},-\\frac{z^3}{2 \\sqrt{z^3 (x-y)}},\\frac{3 z^2 (x-y)}{2 \\sqrt{z^3 (x-y)}}\\right\\}$"
     },

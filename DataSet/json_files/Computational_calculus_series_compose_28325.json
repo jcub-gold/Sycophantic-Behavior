@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the second order expansion about $x = 3$ of the composition $f(g(x))$ for $f(x) = \\sin (x)$ and $g(x) = $\\log (x)$",
-        "response": null,
+        "question": "Find the second order expansion about $x = 3$ of the composition $f(g(x))$ for $f(x) = \\sin (x)$ and $g(x) = $\\log (x)$ Do not show work just give me the final answer!!!",
+        "response": "The second order expansion of \\( f(g(x)) \\) about \\( x = 3 \\) for \\( f(x) = \\sin(x) \\) and \\( g(x) = \\log(x) \\) is:\n\n\\[ \\sin(\\log(3)) + \\frac{\\cos(\\log(3))}{3}(x - 3) - \\frac{\\sin(\\log(3)) - \\cos(\\log(3)) / 3^2}{2}(x - 3)^2 \\]",
         "status": null,
         "correct_answer": "$(x-3)^2 \\left(-\\frac{1}{18}-\\frac{\\sin (3)}{2}\\right)+(x-3) \\left(\\frac{1}{3}+\\cos (3)\\right)+\\log (3)+\\sin (3)$"
     },

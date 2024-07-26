@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Compute the following expression: $\\sum_{k=0}^\\infty \\frac{57}{37}\\frac{1}{\\sqrt{7}}^k$",
-        "response": null,
+        "question": "Compute the following expression: $\\sum_{k=0}^\\infty \\frac{57}{37}\\frac{1}{\\sqrt{7}}^k$ Do not show work just give me the final answer!!!",
+        "response": "The value of the expression \\(\\sum_{k=0}^\\infty \\frac{57}{37} \\left( \\frac{1}{\\sqrt{7}} \\right)^k\\) is \\(\\boxed{\\frac{57 \\sqrt{7}}{\\sqrt{7} - 1}}\\).",
         "status": null,
         "correct_answer": "$-\\frac{399}{37 \\left(\\sqrt{7}-7\\right)}$"
     },

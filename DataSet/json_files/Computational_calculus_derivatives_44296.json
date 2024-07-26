@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Differentiate the following function: $\\sqrt[3]{-3 x-2} \\cos (6 x+4)$",
-        "response": null,
+        "question": "Differentiate the following function: $\\sqrt[3]{-3 x-2} \\cos (6 x+4)$ Do not show work just give me the final answer!!!",
+        "response": "The derivative of the function \\(\\sqrt[3]{-3x-2} \\cos(6x+4)\\) is:\n\n\\[\n\\cos (6 x+4) \\left(-\\frac{1}{\\sqrt[3]{\\left(-3 x-2\\right)^2}}\\right) \\cdot (-3) + \\sqrt[3]{-3 x-2} \\cdot (-6\\sin (6 x+4))\n\\]",
         "status": null,
         "correct_answer": "$\\frac{6 (3 x+2) \\sin (6 x+4)-\\cos (6 x+4)}{\\sqrt[3]{-3 x-2}^2}$"
     },

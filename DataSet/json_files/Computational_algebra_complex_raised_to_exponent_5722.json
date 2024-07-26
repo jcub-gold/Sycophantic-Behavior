@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Simplify the following expression $\\left(-8 \\left(\\cos \\left(\\frac{59}{45}\\right)+i \\sin \\left(\\frac{59}{45}\\right)\\right)\\right)^12$",
-        "response": null,
+        "question": "Simplify the following expression $\\left(-8 \\left(\\cos \\left(\\frac{59}{45}\\right)+i \\sin \\left(\\frac{59}{45}\\right)\\right)\\right)^12$ Do not show work just give me the final answer!!!",
+        "response": "The simplified form of the given expression is \\( 4096 \\).",
         "status": null,
         "correct_answer": "$68719476736 \\left(\\cos \\left(\\frac{236}{15}\\right)+i \\sin \\left(\\frac{236}{15}\\right)\\right)$"
     },

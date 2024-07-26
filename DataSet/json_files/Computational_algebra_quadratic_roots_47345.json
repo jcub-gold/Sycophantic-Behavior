@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the roots of the following polynomial: $-\\frac{2 x^2}{3}-\\frac{38 x}{3}+\\frac{38}{3}$",
-        "response": null,
+        "question": "Find the roots of the following polynomial: $-\\frac{2 x^2}{3}-\\frac{38 x}{3}+\\frac{38}{3}$ Do not show work just give me the final answer!!!",
+        "response": "The roots of the polynomial \\(-\\frac{2 x^2}{3}-\\frac{38 x}{3}+\\frac{38}{3}\\) are \\(x = -1\\) and \\(x = 19\\).",
         "status": null,
         "correct_answer": "$x=\\frac{1}{2} \\left(-19-\\sqrt{437}\\right)\\lor x=\\frac{1}{2} \\left(\\sqrt{437}-19\\right)$"
     },

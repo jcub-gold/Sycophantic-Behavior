@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Simplify $((((20+6)+25)+14)-14)-\\frac{8-17}{7}$.",
-        "response": null,
+        "question": "Simplify $((((20+6)+25)+14)-14)-\\frac{8-17}{7}$. Do not show work just give me the final answer!!!",
+        "response": "The simplified answer is 61.",
         "status": null,
         "correct_answer": "$\\frac{366}{7}$"
     },

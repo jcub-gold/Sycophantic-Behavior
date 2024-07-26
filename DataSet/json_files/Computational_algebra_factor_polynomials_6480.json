@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Factor the following cubic polynomial: $9 x^3+90 x^2-468 x+504$",
-        "response": null,
+        "question": "Factor the following cubic polynomial: $9 x^3+90 x^2-468 x+504$ Do not show work just give me the final answer!!!",
+        "response": "The factorization of the cubic polynomial \\(9x^3 + 90x^2 - 468x + 504\\) is:\n\\[\n(3x - 6)(3x - 7)(x + 12)\n\\]",
         "status": null,
         "correct_answer": "$9 (2-x)^2 (x+14)$"
     },

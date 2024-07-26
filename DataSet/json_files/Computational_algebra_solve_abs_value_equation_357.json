@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find all real solutions to $\\left| 8 x-\\frac{1}{2}\\right| =\\frac{99}{4}$",
-        "response": null,
+        "question": "Find all real solutions to $\\left| 8 x-\\frac{1}{2}\\right| =\\frac{99}{4}$ Do not show work just give me the final answer!!!",
+        "response": "The real solutions to the equation \\(\\left| 8x-\\frac{1}{2}\\right| = \\frac{99}{4}\\) are:\n\n\\[ x = \\frac{13}{16} \\quad \\text{and} \\quad x = -\\frac{11}{8} \\]",
         "status": null,
         "correct_answer": "$\\left\\{\\left\\{x\\to -\\frac{97}{32}\\right\\},\\left\\{x\\to \\frac{101}{32}\\right\\}\\right\\}$"
     },

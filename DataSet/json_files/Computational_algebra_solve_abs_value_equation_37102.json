@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find all real solutions to $\\left| \\frac{79 x^2}{7}+\\frac{27 x}{7}-\\frac{115}{7}\\right| =-\\frac{79}{7}$",
-        "response": null,
+        "question": "Find all real solutions to $\\left| \\frac{79 x^2}{7}+\\frac{27 x}{7}-\\frac{115}{7}\\right| =-\\frac{79}{7}$ Do not show work just give me the final answer!!!",
+        "response": "There are no real solutions to the equation \\(\\left| \\frac{79 x^2}{7}+\\frac{27 x}{7}-\\frac{115}{7}\\right| =-\\frac{79}{7}\\).",
         "status": null,
         "correct_answer": "$\\{\\}$"
     },

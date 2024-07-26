@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Factor the following quadratic: $3 x^2+57 x+252$",
-        "response": null,
+        "question": "Factor the following quadratic: $3 x^2+57 x+252$ Do not show work just give me the final answer!!!",
+        "response": "The factored form of the quadratic \\(3x^2 + 57x + 252\\) is \\(3(x + 7)(x + 12)\\).",
         "status": null,
         "correct_answer": "$-3 (-x-7) (x+12)$"
     },

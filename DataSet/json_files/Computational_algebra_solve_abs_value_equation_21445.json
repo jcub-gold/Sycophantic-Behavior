@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find all real solutions to $\\left| \\frac{47}{3}-\\frac{41 x}{3}\\right| =3$",
-        "response": null,
+        "question": "Find all real solutions to $\\left| \\frac{47}{3}-\\frac{41 x}{3}\\right| =3$ Do not show work just give me the final answer!!!",
+        "response": "The real solutions to the equation \\(\\left| \\frac{47}{3}-\\frac{41 x}{3}\\right| =3\\) are \\(x = 1\\) and \\(x = \\frac{11}{41}\\).",
         "status": null,
         "correct_answer": "$\\left\\{\\left\\{x\\to \\frac{38}{41}\\right\\},\\left\\{x\\to \\frac{56}{41}\\right\\}\\right\\}$"
     },

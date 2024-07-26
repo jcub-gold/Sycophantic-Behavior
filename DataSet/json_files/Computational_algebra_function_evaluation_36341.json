@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Evaluate the function $f(x)=\\cos \\left(4-7 x^4\\right)$ at the point $x=-4$",
-        "response": null,
+        "question": "Evaluate the function $f(x)=\\cos \\left(4-7 x^4\\right)$ at the point $x=-4$ Do not show work just give me the final answer!!!",
+        "response": "The value of the function \\( f(x) = \\cos \\left( 4 - 7 x^4 \\right) \\) at the point \\( x = -4 \\) is \\( \\cos(-7160) \\).",
         "status": null,
         "correct_answer": "$\\cos (1788) = -0.907$"
     },

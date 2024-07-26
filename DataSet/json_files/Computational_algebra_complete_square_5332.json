@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Complete the square for the following quadratic: $-4 x^2-12 x-2$",
-        "response": null,
+        "question": "Complete the square for the following quadratic: $-4 x^2-12 x-2$ Do not show work just give me the final answer!!!",
+        "response": "The completed square form of the quadratic \\(-4x^2 - 12x - 2\\) is \\(-4(x + \\frac{3}{2})^2 + 7\\).",
         "status": null,
         "correct_answer": "$7-4 \\left(x+\\frac{3}{2}\\right)^2$"
     },

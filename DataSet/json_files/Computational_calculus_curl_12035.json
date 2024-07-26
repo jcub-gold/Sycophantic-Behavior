@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = \\cos (y)$, $g(x,y,z) = \\sqrt{\\frac{x}{y}}$, and $h(x,y,z) = \\sqrt{\\frac{x}{z}}$",
-        "response": null,
+        "question": "Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = \\cos (y)$, $g(x,y,z) = \\sqrt{\\frac{x}{y}}$, and $h(x,y,z) = \\sqrt{\\frac{x}{z}}$ Do not show work just give me the final answer!!!",
+        "response": "The curl of the given vector field \\(\\mathbf{F} = f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}\\) where \\(f(x,y,z) = \\cos (y)\\), \\(g(x,y,z) = \\sqrt{\\frac{x}{y}}\\), and \\(h(x,y,z) = \\sqrt{\\frac{x}{z}}\\) is:\n\n\\[\n\\curl \\mathbf{F} = -\\left( \\frac{1}{2} x^{-\\frac{1}{2}} y^{-\\frac{3}{2}} \\right) \\hat{\\imath} + \\left( \\frac{1}{2} x^{-\\frac{1}{2}} z^{-\\frac{3}{2}} \\right) \\hat{\\jmath}\n\\]",
         "status": null,
         "correct_answer": "$\\left\\{0,-\\frac{1}{2 z \\sqrt{\\frac{x}{z}}},\\frac{1}{2 y \\sqrt{\\frac{x}{y}}}+\\sin (y)\\right\\}$"
     },

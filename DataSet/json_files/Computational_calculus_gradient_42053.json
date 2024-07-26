@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\frac{1}{x y z}$",
-        "response": null,
+        "question": "Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\frac{1}{x y z}$ Do not show work just give me the final answer!!!",
+        "response": "The gradient of the function \\( f(x,y,z) = \\frac{1}{xyz} \\) is \n\n\\[ \\nabla f(x,y,z) = \\left( -\\frac{1}{x^2yz}, -\\frac{1}{xy^2z}, -\\frac{1}{xyz^2} \\right). \\]",
         "status": null,
         "correct_answer": "$\\left\\{-\\frac{1}{x^2 y z},-\\frac{1}{x y^2 z},-\\frac{1}{x y z^2}\\right\\}$"
     },

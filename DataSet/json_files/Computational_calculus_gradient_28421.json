@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\sqrt{\\frac{x}{y}}$",
-        "response": null,
+        "question": "Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\sqrt{\\frac{x}{y}}$ Do not show work just give me the final answer!!!",
+        "response": "The gradient of the function \\( f(x,y,z) = \\sqrt{\\frac{x}{y}} \\) is:\n\n\\[ \\nabla f(x,y,z) = \\left( \\frac{1}{2\\sqrt{\\frac{x}{y}y}}, -\\frac{x}{2y^2\\sqrt{\\frac{x}{y}}}, 0 \\right) \\]\n\nor equivalently,\n\n\\[ \\nabla f(x,y,z) = \\left( \\frac{1}{2\\sqrt{xy}}, -\\frac{\\sqrt{x}}{2y^{3/2}}, 0 \\right) \\]",
         "status": null,
         "correct_answer": "$\\left\\{\\frac{1}{2 y \\sqrt{\\frac{x}{y}}},-\\frac{x}{2 y^2 \\sqrt{\\frac{x}{y}}},0\\right\\}$"
     },

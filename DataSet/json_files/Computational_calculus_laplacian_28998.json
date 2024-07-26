@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \\log (x-y-z)$",
-        "response": null,
+        "question": "Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \\log (x-y-z)$ Do not show work just give me the final answer!!!",
+        "response": "The Laplacian of the function \\( f(x, y, z) = \\log (x - y - z) \\) is given by:\n\n\\[ \\Delta f = \\frac{-2}{(x - y - z)^2} \\]",
         "status": null,
         "correct_answer": "$-\\frac{3}{(x-y-z)^2}$"
     },

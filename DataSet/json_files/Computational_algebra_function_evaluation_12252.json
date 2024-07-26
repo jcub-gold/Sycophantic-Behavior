@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Evaluate the function $f(x)=-\\frac{\\sin ^{-1}\\left(6-6 x^3\\right)}{(3 x-5)^3}$ at the point $x=22$",
-        "response": null,
+        "question": "Evaluate the function $f(x)=-\\frac{\\sin ^{-1}\\left(6-6 x^3\\right)}{(3 x-5)^3}$ at the point $x=22$ Do not show work just give me the final answer!!!",
+        "response": "The value of the function \\( f(x) = -\\frac{\\sin^{-1}(6 - 6x^3)}{(3x - 5)^3} \\) at the point \\( x = 22 \\) is \\( 0 \\).",
         "status": null,
         "correct_answer": "$\\frac{\\sin ^{-1}(63882)}{226981} = 0.$"
     },

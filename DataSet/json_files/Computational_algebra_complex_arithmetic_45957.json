@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find $\\frac{x}{y}$ where $x=(1+i) \\sqrt{5}$ and $y=(-3-i) \\sqrt{5}$",
-        "response": null,
+        "question": "Find $\\frac{x}{y}$ where $x=(1+i) \\sqrt{5}$ and $y=(-3-i) \\sqrt{5}$ Do not show work just give me the final answer!!!",
+        "response": "The value of \\(\\frac{x}{y}\\) where \\(x=(1+i) \\sqrt{5}\\) and \\(y=(-3-i) \\sqrt{5}\\) is \\(\\boxed{-\\frac{1}{2} + \\frac{1}{2}i}\\).",
         "status": null,
         "correct_answer": "$-\\frac{2}{5}-\\frac{i}{5}$"
     },

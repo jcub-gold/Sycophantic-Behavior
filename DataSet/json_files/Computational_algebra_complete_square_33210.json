@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Complete the square for the following quadratic: $-\\frac{23 x^2}{3}+\\frac{43 x}{3}-\\frac{10}{3}$",
-        "response": null,
+        "question": "Complete the square for the following quadratic: $-\\frac{23 x^2}{3}+\\frac{43 x}{3}-\\frac{10}{3}$ Do not show work just give me the final answer!!!",
+        "response": "The complete square form for the given quadratic \\(-\\frac{23 x^2}{3}+\\frac{43 x}{3}-\\frac{10}{3}\\) is:\n\n\\[ -\\frac{23}{3} \\left(x - \\frac{43}{46}\\right)^2 + \\frac{1223}{138}\\]",
         "status": null,
         "correct_answer": "$\\frac{929}{276}-\\frac{23}{3} \\left(x-\\frac{43}{46}\\right)^2$"
     },

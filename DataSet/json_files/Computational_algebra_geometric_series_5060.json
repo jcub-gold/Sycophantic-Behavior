@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Compute the following expression: $\\sum_{k=0}^3 77\\frac{1}{7}^k$",
-        "response": null,
+        "question": "Compute the following expression: $\\sum_{k=0}^3 77\\frac{1}{7}^k$ Do not show work just give me the final answer!!!",
+        "response": "The sum of the expression \\(\\sum_{k=0}^3 77\\frac{1}{7}^k\\) is \\(\\frac{24024}{343} = 70.05\\).",
         "status": null,
         "correct_answer": "$\\frac{4400}{49}$"
     },

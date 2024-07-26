@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Simplify the following expression $\\left(-\\sqrt{3} \\left(\\cos \\left(\\frac{16}{9}\\right)+i \\sin \\left(\\frac{16}{9}\\right)\\right)\\right)^7$",
-        "response": null,
+        "question": "Simplify the following expression $\\left(-\\sqrt{3} \\left(\\cos \\left(\\frac{16}{9}\\right)+i \\sin \\left(\\frac{16}{9}\\right)\\right)\\right)^7$ Do not show work just give me the final answer!!!",
+        "response": "The simplified expression is \\(-729 \\left(\\cos \\left(\\frac{112}{9}\\right) + i \\sin \\left(\\frac{112}{9}\\right)\\right)\\).",
         "status": null,
         "correct_answer": "$-27 \\sqrt{3} \\left(\\cos \\left(\\frac{112}{9}\\right)+i \\sin \\left(\\frac{112}{9}\\right)\\right)$"
     },

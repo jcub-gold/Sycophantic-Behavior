@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = x y^4$, $g(x,y,z) = \\tan ^{-1}\\left(x+y^4\\right)$, and $h(x,y,z) = \\frac{1}{x z}$",
-        "response": null,
+        "question": "Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = x y^4$, $g(x,y,z) = \\tan ^{-1}\\left(x+y^4\\right)$, and $h(x,y,z) = \\frac{1}{x z}$ Do not show work just give me the final answer!!!",
+        "response": "The curl of the vector field \\( \\mathbf{F} = f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k} \\) where \\( f(x,y,z) = xy^4 \\), \\( g(x,y,z) = \\tan^{-1}(x + y^4) \\), and \\( h(x,y,z) = \\frac{1}{xz} \\) is given by:\n\n\\[ \\nabla \\times \\mathbf{F} = \\left( \\frac{\\partial h}{\\partial y} - \\frac{\\partial g}{\\partial z} \\right) \\uvec{i} + \\left( \\frac{\\partial f}{\\partial z} - \\frac{\\partial h}{\\partial x} \\right) \\uvec{j} + \\left( \\frac{\\partial g}{\\partial x} - \\frac{\\partial f}{\\partial y} \\right) \\uvec{k} \\]\n\nCalculating each component, we get:\n\n\\[ \\left( \\frac{-1}{(x + y^4)^2 + 1} \\right) \\uvec{i} + \\left( \\frac{1}{z^2} \\right) \\uvec{j} + \\left( \\boxed{-4xy^3} \\right) \\uvec{k} \\]\n\nSo, the final answer is:\n\n\\[ \\nabla \\times \\mathbf{F} = \\left( \\frac{-1}{(x + y^4)^2 + 1} \\right) \\uvec{i} + \\left( \\frac{1}{z^2} \\right) \\uvec{j} + \\left( -4xy^3 \\right) \\uvec{k} \\]",
         "status": null,
         "correct_answer": "$\\left\\{0,\\frac{1}{x^2 z},\\frac{1}{\\left(x+y^4\\right)^2+1}-4 x y^3\\right\\}$"
     },

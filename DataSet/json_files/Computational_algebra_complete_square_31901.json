@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Complete the square for the following quadratic: $-9 x^2+14 x-13$",
-        "response": null,
+        "question": "Complete the square for the following quadratic: $-9 x^2+14 x-13$ Do not show work just give me the final answer!!!",
+        "response": "The completed square form for the quadratic \\(-9x^2 + 14x - 13\\) is \\(-9(x - \\frac{7}{9})^2 - \\frac{128}{9}\\).",
         "status": null,
         "correct_answer": "$-9 \\left(x-\\frac{7}{9}\\right)^2-\\frac{68}{9}$"
     },

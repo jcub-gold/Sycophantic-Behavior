@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the third order expansion about $x = 0$ of the composition $f(g(x))$ for $f(x) = e^x$ and $g(x) = $e^x$",
-        "response": null,
+        "question": "Find the third order expansion about $x = 0$ of the composition $f(g(x))$ for $f(x) = e^x$ and $g(x) = $e^x$ Do not show work just give me the final answer!!!",
+        "response": "The third-order expansion about \\(x = 0\\) of the composition \\(f(g(x))\\) for \\(f(x) = e^x\\) and \\(g(x) = e^x\\) is:\n\\[ e^{e^x} \\approx 2 + x + \\frac{x^2}{2} + \\frac{x^3}{3}.\\]",
         "status": null,
         "correct_answer": "$0$"
     },

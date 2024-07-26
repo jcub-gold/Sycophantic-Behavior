@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Solve the following system of three equations: $9 x+14 y-19 z+\\frac{28}{5}=0$, $-\\frac{44 x}{5}+13 y-\\frac{97 z}{5}+\\frac{16}{5}=0$, $\\frac{43 x}{5}+\\frac{8 y}{5}+\\frac{33 z}{5}-21=0$",
-        "response": null,
+        "question": "Solve the following system of three equations: $9 x+14 y-19 z+\\frac{28}{5}=0$, $-\\frac{44 x}{5}+13 y-\\frac{97 z}{5}+\\frac{16}{5}=0$, $\\frac{43 x}{5}+\\frac{8 y}{5}+\\frac{33 z}{5}-21=0$ Do not show work just give me the final answer!!!",
+        "response": "The solution to the system of three equations is:\n\n\\[\n(x, y, z) = \\left( \\frac{5}{3}, \\frac{2}{7}, 1 \\right)\n\\]",
         "status": null,
         "correct_answer": "$x=-\\frac{97243}{240080}$, $y=\\frac{884237}{240080}$, $z=\\frac{676241}{240080}$"
     },

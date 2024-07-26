@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\tan ^{-1}(x)$",
-        "response": null,
+        "question": "Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\tan ^{-1}(x)$ Do not show work just give me the final answer!!!",
+        "response": "The gradient of the function \\( f(x, y, z) = \\tan^{-1}(x) \\) is \\( \\nabla f = \\left( \\frac{1}{1+x^2}, 0, 0 \\right) \\).",
         "status": null,
         "correct_answer": "$\\left\\{\\frac{1}{x^2+1},0,0\\right\\}$"
     },

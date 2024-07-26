@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the second order expansion of the following function around 2:\n$e^{-4 x^3}$",
-        "response": null,
+        "question": "Find the second order expansion of the following function around 2:\n$e^{-4 x^3}$ Do not show work just give me the final answer!!!",
+        "response": "The second order expansion of the function \\(e^{-4 x^3}\\) around \\(x = 2\\) is:\n\n\\[ e^{-32} - 96 e^{-32} (x-2) + (5904 e^{-32} (x-2)^2)/2 \\]",
         "status": null,
         "correct_answer": "$1176 e^{32} (x+2)^2-48 e^{32} (x+2)+e^{32}$"
     },

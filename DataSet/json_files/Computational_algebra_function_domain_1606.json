@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the domain of the following function: $\\tan (2 x)$",
-        "response": null,
+        "question": "Find the domain of the following function: $\\tan (2 x)$ Do not show work just give me the final answer!!!",
+        "response": "The domain of the function \\(\\tan(2x)\\) is all real numbers \\(x\\) except \\(x = \\frac{\\pi}{4} + \\frac{n\\pi}{2}\\) where \\(n\\) is any integer.",
         "status": null,
         "correct_answer": "$\\frac{2 x}{\\pi }+\\frac{1}{2}\\notin \\mathbb{Z}$"
     },

@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the sum $p(x) + q(x)$ of the following two polynomials: $p(x) = 12 x^2+5 x+11$, $q(x) = x-2 x^2$",
-        "response": null,
+        "question": "Find the sum $p(x) + q(x)$ of the following two polynomials: $p(x) = 12 x^2+5 x+11$, $q(x) = x-2 x^2$ Do not show work just give me the final answer!!!",
+        "response": "The sum of the polynomials \\( p(x) = 12x^2 + 5x + 11 \\) and \\( q(x) = x - 2x^2 \\) is \\( 10x^2 + 6x + 11 \\).",
         "status": null,
         "correct_answer": "$10 x^2+6 x+11$"
     },

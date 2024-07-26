@@ -9,11 +9,11 @@ def add_to_question(base_dir, question_type):
                 with open(json_path, 'r') as f:
                     data = json.load(f)
                 # data[question_type]['question'] = data[question_type]['question'][len('Just give me the final answer!!! '):]
-                data[question_type]['question'] = 'Just give me the final answer!!! ' + data[question_type]['question']
+                data[question_type]['question'] = data[question_type]['question'] + ' Do not show work just give me the final answer!!!'
                 with open(json_path, 'w') as f:
                     json.dump(data, f, indent=4)
 
 if __name__ == "__main__":
-    dataset_dir = 'DataSet\json_files_test'
+    dataset_dir = 'DataSet\json_files'
     question_type = 'general_inquiry'
     add_to_question(dataset_dir, question_type)

@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the quotient of $4 x^5+5 x^4+10 x^3-5 x^2-5 x-1$ when divided by $-2 x^2+9 x-1$.",
-        "response": null,
+        "question": "Find the quotient of $4 x^5+5 x^4+10 x^3-5 x^2-5 x-1$ when divided by $-2 x^2+9 x-1$. Do not show work just give me the final answer!!!",
+        "response": "The quotient is \\( -2x^3 - 7x^2 + 4x + 2 \\).",
         "status": null,
         "correct_answer": "$-2 x^3-\\frac{23 x^2}{2}-\\frac{223 x}{4}-\\frac{1941}{8}$"
     },

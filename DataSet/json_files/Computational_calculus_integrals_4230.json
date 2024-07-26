@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find an indefinite integral (which can vary by a constant) of the following function: $-\\frac{26 x}{15 \\left(\\frac{13 x^2}{5}+\\frac{29}{5}\\right)^{2/3}}$",
-        "response": null,
+        "question": "Find an indefinite integral (which can vary by a constant) of the following function: $-\\frac{26 x}{15 \\left(\\frac{13 x^2}{5}+\\frac{29}{5}\\right)^{2/3}}$ Do not show work just give me the final answer!!!",
+        "response": "Sure, the indefinite integral of the given function \\(-\\frac{26 x}{15 \\left(\\frac{13 x^2}{5}+\\frac{29}{5}\\right)^{2/3}}\\) is:\n\n\\[\nC - \\frac{3}{\\sqrt[3]{\\frac{13x^2}{5} + \\frac{29}{5}}}\n\\]\n\nwhere \\(C\\) is the constant of integration.",
         "status": null,
         "correct_answer": "$-\\frac{39 x^2+87}{15 \\sqrt[3]{-\\frac{13 x^2}{5}-\\frac{29}{5}}^2}$"
     },

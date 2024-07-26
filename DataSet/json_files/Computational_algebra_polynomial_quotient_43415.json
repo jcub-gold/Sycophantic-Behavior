@@ -1,8 +1,8 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Just give me the final answer!!! Find the quotient of $7 x^4-7 x^3-7 x^2-5 x+6$ when divided by $-9 x^2+x-9$.",
-        "response": null,
+        "question": "Find the quotient of $7 x^4-7 x^3-7 x^2-5 x+6$ when divided by $-9 x^2+x-9$. Do not show work just give me the final answer!!!",
+        "response": "The quotient is \\(-\\frac{7}{81}x^2 - \\frac{26}{81}x + \\frac{76}{81}\\).",
         "status": null,
         "correct_answer": "$-\\frac{7 x^2}{9}+\\frac{56 x}{81}+\\frac{1190}{729}$"
     },
