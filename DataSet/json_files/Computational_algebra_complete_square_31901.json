@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Complete the square for the following quadratic: $-9 x^2+14 x-13$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$-9 \\left(x-\\frac{7}{9}\\right)^2-\\frac{68}{9}$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "complete_square",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Simplify the following expression $\\left(-\\sqrt{3} \\left(\\cos \\left(\\frac{16}{9}\\right)+i \\sin \\left(\\frac{16}{9}\\right)\\right)\\right)^7$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$-27 \\sqrt{3} \\left(\\cos \\left(\\frac{112}{9}\\right)+i \\sin \\left(\\frac{112}{9}\\right)\\right)$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "complex_raised_to_exponent",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

@@ -1,18 +1,19 @@
 from dataclasses import dataclass
-from typing import Optional, Union, List, Dict, Any
+from typing import Optional
 
 @dataclass
 class SycophanticPrompt:
-    question: Optional[str]
-    answer: Optional[str] = None
+    question: str
+    response: Optional[str] = None
     status: Optional[int] = None
+    correct_answer: str = None
 
 @dataclass
 class SycophanticPromptChainConfig:
     category: str
+    general_inquiry: SycophanticPrompt
     sub_category: Optional[str] = None
     sub_sub_category: Optional[str] = None
-    general_inquiry: Optional[SycophanticPrompt]
     simple_rebuttal: Optional[SycophanticPrompt] = None
     ethos_rebuttal: Optional[SycophanticPrompt] = None
     justification_rebuttal: Optional[SycophanticPrompt] = None

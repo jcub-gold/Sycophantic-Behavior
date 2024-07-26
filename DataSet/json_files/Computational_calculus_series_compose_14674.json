@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Find the first order expansion about $x = 2$ of the composition $f(g(x))$ for $f(x) = \\sqrt{x}$ and $g(x) = $e^x$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\left(\\frac{1}{2 \\sqrt{2}}+e^2\\right) (x-2)+e^2+\\sqrt{2}$"
+    },
+    "sub_category": "calculus",
+    "sub_sub_category": "series_compose",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

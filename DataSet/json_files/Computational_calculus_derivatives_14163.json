@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Differentiate the following function: $\\frac{\\cos (3 x+4)}{\\sqrt[3]{7 x^3+5}}$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\frac{-3 \\left(7 x^3+5\\right) \\sin (3 x+4)-7 x^2 \\cos (3 x+4)}{\\left(7 x^3+5\\right) \\sqrt[3]{7 x^3+5}}$"
+    },
+    "sub_category": "calculus",
+    "sub_sub_category": "derivatives",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

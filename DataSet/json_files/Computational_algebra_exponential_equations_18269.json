@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Find all real solutions to $6^{-\\frac{21 x}{2}-23}6^{\\frac{89 x}{4}-\\frac{27}{2}} = 6^{\\frac{53 x}{4}+5}$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\left\\{\\left\\{x\\to -\\frac{83}{3}\\right\\}\\right\\}$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "exponential_equations",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

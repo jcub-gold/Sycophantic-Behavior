@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Simplify $(((11+23)+19)+6)^2 \\left(\\left(\\left(\\frac{5}{13}-23\\right)^2-2\\right)-4\\right)$.",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\frac{297353982}{169}$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "pemdas",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

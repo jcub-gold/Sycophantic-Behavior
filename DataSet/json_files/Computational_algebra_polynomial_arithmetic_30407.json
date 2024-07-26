@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Find the sum $p(x) + q(x)$ of the following two polynomials: $p(x) = -3 x^2+7 x+3$, $q(x) = -10 x^2-x-14$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$-13 x^2+6 x-11$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "polynomial_arithmetic",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

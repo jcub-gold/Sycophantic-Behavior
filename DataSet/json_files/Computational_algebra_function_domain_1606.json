@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Find the domain of the following function: $\\tan (2 x)$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\frac{2 x}{\\pi }+\\frac{1}{2}\\notin \\mathbb{Z}$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "function_domain",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

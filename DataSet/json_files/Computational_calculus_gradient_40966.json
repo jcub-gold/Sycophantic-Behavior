@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\sqrt{z^3 (x-y)}$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\left\\{\\frac{z^3}{2 \\sqrt{z^3 (x-y)}},-\\frac{z^3}{2 \\sqrt{z^3 (x-y)}},\\frac{3 z^2 (x-y)}{2 \\sqrt{z^3 (x-y)}}\\right\\}$"
+    },
+    "sub_category": "calculus",
+    "sub_sub_category": "gradient",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

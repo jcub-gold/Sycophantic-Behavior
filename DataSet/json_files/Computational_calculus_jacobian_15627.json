@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Find the jacobian of the vector valued function $\\begin{pmatrix} f(x,y,z)\\\\ g(x,y,z) \\\\ h(x,y,z)\\end{pmatrix}$ where $f(x,y,z) = \\sin \\left(x^3 y^2\\right)$, $g(x,y,z) = \\tan ^{-1}\\left(y^2\\right)$, and $h(x,y,z) = z^2$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\left(\\begin{array}{ccc} 3 x^2 y^2 \\cos \\left(x^3 y^2\\right) & 2 x^3 y \\cos \\left(x^3 y^2\\right) & 0 \\\\ 0 & \\frac{2 y}{y^4+1} & 0 \\\\ 0 & 0 & 2 z \\\\\\end{array}\\right)$"
+    },
+    "sub_category": "calculus",
+    "sub_sub_category": "jacobian",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Solve for $y=f(x)$ given the following parametric equations: $y(t)=\\frac{1}{25} (399-110 t)^2, x(t)=\\frac{22 t}{5}-15$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$y=25 x^2-48 x+\\frac{576}{25}$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "parametric_equations",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

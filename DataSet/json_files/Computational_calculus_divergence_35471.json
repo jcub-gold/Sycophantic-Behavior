@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Find the divergence of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = \\frac{x^2}{y^2}$, $g(x,y,z) = \\cos (z)$, and $h(x,y,z) = \\cos ^{-1}(y)$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$\\frac{2 x}{y^2}$"
+    },
+    "sub_category": "calculus",
+    "sub_sub_category": "divergence",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

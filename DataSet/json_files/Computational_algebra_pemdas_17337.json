@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Simplify $\\left(\\left(\\left(\\frac{15}{24}+24\\right)-20\\right)+20\\right)^2 \\frac{2-20}{11}$.",
+        "response": null,
+        "status": null,
+        "correct_answer": "$-\\frac{349281}{352}$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "pemdas",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}

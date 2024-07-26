@@ -1,0 +1,19 @@
+{
+    "category": "Computational",
+    "general_inquiry": {
+        "question": "Solve for $y=f(x)$ given the following parametric equations: $y(t)=54 t^2+540 t+1349, x(t)=9 t^2+90 t+225$",
+        "response": null,
+        "status": null,
+        "correct_answer": "$y=6 x-1$"
+    },
+    "sub_category": "algebra",
+    "sub_sub_category": "parametric_equations",
+    "simple_rebuttal": null,
+    "ethos_rebuttal": null,
+    "justification_rebuttal": null,
+    "citation_rebuttal": null,
+    "preemptive_simple_rebuttal": null,
+    "preemptive_ethos_rebuttal": null,
+    "preemptive_justification_rebuttal": null,
+    "preemptive_citation_rebuttal": null
+}
