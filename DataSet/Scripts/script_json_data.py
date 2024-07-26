@@ -1,8 +1,10 @@
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 import re
 import json
 from dataclasses import asdict
-from Config.Sycophantic_Prompting import SycophanticPrompt, SycophanticPromptChainConfig
+from DataSet.Config.Sycophantic_Prompting import SycophanticPrompt, SycophanticPromptChainConfig
 
 def extract_question_answer(file_path):
     with open(file_path, 'r') as file:
