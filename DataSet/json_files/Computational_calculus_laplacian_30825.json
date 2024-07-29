@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the laplacian of the function $f(x,y,z)$ where $f(x,y,z) = \\log (z)$ Do not show work just give me the final answer!!!",
         "response": "The Laplacian of the function \\( f(x,y,z) = \\log(z) \\) is given by:\n\\[ \\Delta f = \\frac{\\partial^2 f}{\\partial x^2} + \\frac{\\partial^2 f}{\\partial y^2} + \\frac{\\partial^2 f}{\\partial z^2} = \\frac{-1}{z^2} \\]",
-        "status": null,
+        "status": "1",
         "correct_answer": "$-\\frac{1}{z^2}$"
     },
     "sub_category": "calculus",

@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the second order expansion of the following function around 2:\n$\\tanh (3 x)+1$ Do not show work just give me the final answer!!!",
         "response": "The second order expansion of the function \\(\\tanh (3x) + 1\\) around \\(x = 2\\) is:\n\n\\[ \\tanh(6) + \\frac{3}{\\cosh^2(6)}(x - 2) - \\frac{9 \\sinh(6)}{\\cosh^4(6)}(x - 2)^2 \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$9 (x-5)^2 \\left(\\tanh ^3(15)-\\tanh (15)\\right)+(x-5) \\left(3-3 \\tanh ^2(15)\\right)+1+\\tanh (15)$"
     },
     "sub_category": "calculus",

@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Differentiate the following function: $\\log (2 x-8) (-\\cot (4-3 x))$ Do not show work just give me the final answer!!!",
         "response": "The derivative of the function \\(\\log (2 x-8) (-\\cot (4-3 x))\\) is\n\n\\[\n\\frac{2 \\cot (4-3 x) \\log (2 x-8)}{2 x-8} + 3 \\csc ^2(4-3 x) \\log (2 x-8) -\\frac{2 \\cot (4-3 x)}{2 x-8}.\n\\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$-\\frac{\\cot (4-3 x)}{x-4}-3 \\log (2 (x-4)) \\csc ^2(4-3 x)$"
     },
     "sub_category": "calculus",

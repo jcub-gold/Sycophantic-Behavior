@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = \\sin ^{-1}(x y-z)$ Do not show work just give me the final answer!!!",
         "response": "The gradient of the function \\( f(x, y, z) = \\sin^{-1}(xy - z) \\) is:\n\n\\[ \\nabla f = \\left( \\frac{y}{\\sqrt{1 - (xy - z)^2}}, \\frac{x}{\\sqrt{1 - (xy - z)^2}}, \\frac{-1}{\\sqrt{1 - (xy - z)^2}} \\right) \\]",
-        "status": null,
+        "status": "1",
         "correct_answer": "$\\left\\{\\frac{y}{\\sqrt{1-(x y-z)^2}},\\frac{x}{\\sqrt{1-(x y-z)^2}},-\\frac{1}{\\sqrt{1-(x y-z)^2}}\\right\\}$"
     },
     "sub_category": "calculus",

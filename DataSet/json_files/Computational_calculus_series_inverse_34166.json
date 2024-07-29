@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the second order series of the inverse of the following function around 2: $2^{2/3} \\sqrt[3]{x}$ Do not show work just give me the final answer!!!",
         "response": "The second order series of the inverse function \\( y^{-1} \\) around \\( x = 2 \\) for \\( y = 2^{2/3} \\sqrt[3]{x} \\) is:\n\n\\[ y^{-1}(y) = 4 + \\frac{27}{64}(y - 2) + \\frac{243}{8192}(y - 2)^2 \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\frac{3}{2} (x-2)^2+3 (x-2)+2$"
     },
     "sub_category": "calculus",

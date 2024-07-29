@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the second order expansion of the following function around 2:\n$e^{-x}$ Do not show work just give me the final answer!!!",
         "response": "The second order expansion of \\( e^{-x} \\) around \\( x = 2 \\) is:\n\n\\[ e^{-2} - e^{-2}(x - 2) + \\frac{e^{-2}}{2}(x - 2)^2 \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\frac{x^2}{2}-x+1$"
     },
     "sub_category": "calculus",

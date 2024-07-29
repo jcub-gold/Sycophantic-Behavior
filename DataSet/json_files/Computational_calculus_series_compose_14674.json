@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the first order expansion about $x = 2$ of the composition $f(g(x))$ for $f(x) = \\sqrt{x}$ and $g(x) = $e^x$ Do not show work just give me the final answer!!!",
         "response": "The first order expansion of \\( f(g(x)) \\) about \\( x = 2 \\) for \\( f(x) = \\sqrt{x} \\) and \\( g(x) = e^x \\) is:\n\n\\[ f(g(x)) \\approx 3e + \\frac{3}{2} e (x-2) \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\left(\\frac{1}{2 \\sqrt{2}}+e^2\\right) (x-2)+e^2+\\sqrt{2}$"
     },
     "sub_category": "calculus",

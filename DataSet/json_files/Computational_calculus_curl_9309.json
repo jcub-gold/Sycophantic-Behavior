@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = \\cos \\left(x^2\\right)$, $g(x,y,z) = \\sin ^{-1}(z)$, and $h(x,y,z) = \\cos ^{-1}(z)$ Do not show work just give me the final answer!!!",
         "response": "The curl of the vector field \\(\\mathbf{F} = f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}\\), where \\(f(x,y,z) = \\cos \\left(x^2\\right)\\), \\(g(x,y,z) = \\sin^{-1}(z)\\), and \\(h(x,y,z) = \\cos^{-1}(z)\\), is given by:\n\\[\n\\curl{\\mathbf{F}} = \\left(-\\frac{x \\sin (x^2)}{\\sqrt{1-z^2}} \\right) \\uvec{i} + 0\\uvec{j} + 0\\uvec{k}.\n\\]",
-        "status": "2",
+        "status": "0",
         "correct_answer": "$\\left\\{-\\frac{1}{\\sqrt{1-z^2}},0,0\\right\\}$"
     },
     "sub_category": "calculus",

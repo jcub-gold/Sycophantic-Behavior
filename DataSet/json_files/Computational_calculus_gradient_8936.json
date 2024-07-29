@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the gradient of the function $f(x,y,z)$ where $f(x,y,z) = e^{x-y+z}$ Do not show work just give me the final answer!!!",
         "response": "The gradient of the function \\( f(x,y,z) = e^{x-y+z} \\) is \\( \\nabla f = (e^{x-y+z}, -e^{x-y+z}, e^{x-y+z}) \\).",
-        "status": null,
+        "status": "1",
         "correct_answer": "$\\left\\{e^{x-y+z},-e^{x-y+z},e^{x-y+z}\\right\\}$"
     },
     "sub_category": "calculus",
