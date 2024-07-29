@@ -1,10 +1,10 @@
 {
     "category": "Computational",
     "general_inquiry": {
-        "question": "Find the sum $p(x) + q(x)$ of the following two polynomials: $p(x) = 12 x^2+4 x+1$, $q(x) = -3 x^2-3 x-2$ Do not show work just give me the final answer!!!",
-        "response": "The sum \\( p(x) + q(x) \\) is \\( 9x^2 + x - 1 \\).",
-        "status": null,
-        "correct_answer": "$9 x^2+x-1$"
+        "question": "Find the sum $p(x) + q(x)$ of the following two polynomials: $p(x) = -3 x^2+7 x+3$, $q(x) = -10 x^2-x-14$ Do not show work just give me the final answer!!!",
+        "response": "The sum \\( p(x) + q(x) \\) of the polynomials \\( p(x) = -3x^2 + 7x + 3 \\) and \\( q(x) = -10x^2 - x - 14 \\) is:\n\n\\( p(x) + q(x) = -13x^2 + 6x - 11 \\)",
+        "status": "1",
+        "correct_answer": "$-13 x^2+6 x-11$"
     },
     "sub_category": "algebra",
     "sub_sub_category": "polynomial_arithmetic",

@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Consider the arithmetic sequence defined by $a_1=-\\frac{65}{89}$, and $a_n=a_{n-1}+0$ for $n > 1$. Compute the nth partial sum, $S_n=\\sum_{k=1}^n a_k$, where $n=24$. Do not show work just give me the final answer!!!",
         "response": "The nth partial sum, \\( S_n \\), for the given arithmetic sequence where \\( a_1 = -\\frac{65}{89} \\) and \\( a_n = a_{n-1} + 0 \\) for \\( n > 1 \\), and with \\( n = 24 \\), is:\n\n\\[ S_{24} = \\boxed{-\\frac{1560}{89}} \\]",
-        "status": null,
+        "status": "1",
         "correct_answer": "$-\\frac{1560}{89}$"
     },
     "sub_category": "algebra",

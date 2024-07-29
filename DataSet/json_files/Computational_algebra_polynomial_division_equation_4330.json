@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find all real solutions to $\\frac{-4 \\sqrt{5} x^2+\\sqrt{5} x+6 \\sqrt{5}}{-5 \\sqrt{5} x-6 \\sqrt{5}}=0$ Do not show work just give me the final answer!!!",
         "response": "The real solution to the equation \\(\\frac{-4 \\sqrt{5} x^2+\\sqrt{5} x+6 \\sqrt{5}}{-5 \\sqrt{5} x-6 \\sqrt{5}}=0\\) is:\n\n\\[ x = \\frac{3}{2} \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\left\\{\\left\\{x\\to \\frac{1}{8} \\left(1-\\sqrt{97}\\right)\\right\\},\\left\\{x\\to \\frac{1}{8} \\left(1+\\sqrt{97}\\right)\\right\\}\\right\\}$"
     },
     "sub_category": "algebra",

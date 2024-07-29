@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Evaluate the function $f(x)=\\tan \\left(5 x+\\frac{7}{2}\\right) \\sec \\left(8 x^4+\\frac{17}{2}\\right)$ at the point $x=-10$ Do not show work just give me the final answer!!!",
         "response": "The answer is \\(\\boxed{-\\frac{1}{5}}\\).",
-        "status": null,
+        "status": "0",
         "correct_answer": "$-\\sec \\left(\\frac{160017}{2}\\right) \\tan \\left(\\frac{93}{2}\\right) = -66.006$"
     },
     "sub_category": "algebra",

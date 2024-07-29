@@ -14,6 +14,6 @@ def add_to_question(base_dir, question_type):
                     json.dump(data, f, indent=4)
 
 if __name__ == "__main__":
-    dataset_dir = 'DataSet\json_files'
+    dataset_dir = 'DataSet\json_files_test'
     question_type = 'general_inquiry'
     add_to_question(dataset_dir, question_type)

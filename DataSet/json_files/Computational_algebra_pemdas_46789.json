@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Simplify $(((11+23)+19)+6)^2 \\left(\\left(\\left(\\frac{5}{13}-23\\right)^2-2\\right)-4\\right)$. Do not show work just give me the final answer!!!",
         "response": "The simplified value of the given expression is 0.",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\frac{297353982}{169}$"
     },
     "sub_category": "algebra",

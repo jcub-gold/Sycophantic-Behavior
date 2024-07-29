@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find $x \\cdot y$ where $x=\\frac{5-3 i}{\\sqrt{\\pi }}$ and $y=\\frac{7+8 i}{\\sqrt{\\pi }}$ Do not show work just give me the final answer!!!",
         "response": "The value of \\( x \\cdot y \\) where \\( x = \\frac{5 - 3i}{\\sqrt{\\pi}} \\) and \\( y = \\frac{7 + 8i}{\\sqrt{\\pi}} \\) is \\(\\frac{59 + 19i}{\\pi}\\).",
-        "status": null,
+        "status": "1",
         "correct_answer": "$\\frac{59+19 i}{\\pi }$"
     },
     "sub_category": "algebra",

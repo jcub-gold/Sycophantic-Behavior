@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find $\\frac{x}{y}$ where $x=-\\frac{6+5 i}{\\sqrt{2}}$ and $y=-\\frac{9+11 i}{\\sqrt{2}}$ Do not show work just give me the final answer!!!",
         "response": "The final answer is \\(\\frac{x}{y} = \\frac{3}{5} + \\frac{i}{5}\\).",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\frac{109}{202}-\\frac{21 i}{202}$"
     },
     "sub_category": "algebra",

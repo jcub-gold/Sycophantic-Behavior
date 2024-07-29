@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Simplify $((1+2)+12)^2+(((6-19)-21)-25)$. Do not show work just give me the final answer!!!",
         "response": "The simplified expression is \\((-81)^2 - 59\\), which equals \\(6561 - 59 = 6502\\).",
-        "status": null,
+        "status": "0",
         "correct_answer": "$166$"
     },
     "sub_category": "algebra",

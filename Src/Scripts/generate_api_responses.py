@@ -22,6 +22,6 @@ def general_inquiry_response(base_dir):
 
 
 if __name__ == "__main__":
-    dataset_dir = "DataSet/json_files"
+    dataset_dir = "DataSet/json_files_test"
     general_inquiry_response(dataset_dir)
 

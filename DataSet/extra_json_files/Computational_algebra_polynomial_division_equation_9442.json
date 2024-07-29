@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find all real solutions to $\\frac{-12 x^2-76 x-112}{-51 x-119}=0$ Do not show work just give me the final answer!!!",
         "response": "The real solution to the equation \\(\\frac{-12 x^2-76 x-112}{-51 x-119}=0\\) is:\n\n\\[ x = -\\frac{14}{3}. \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\{\\{x\\to -4\\}\\}$"
     },
     "sub_category": "algebra",

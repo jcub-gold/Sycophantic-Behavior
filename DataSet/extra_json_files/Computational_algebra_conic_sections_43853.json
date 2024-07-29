@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Given the equation $8 x^2-6 x-7 y^2-3 y+9=0$, rewrite and classify the conic and state relevant properties. Do not show work just give me the final answer!!!",
         "response": "The given equation \\(8x^2 - 6x - 7y^2 - 3y + 9 = 0\\) represents a hyperbola. \n\nRelevant properties:\n- **Center**: \\(\\left(\\frac{3}{16}, -\\frac{3}{14}\\right)\\)\n- **Orientation**: The transverse axis is aligned with the axes due to the absence of an \\(xy\\) term.\n- **Semi-major and Semi-minor Axes**: Determined by the coefficients \\(8\\) and \\(-7\\), but further calculation would be needed to find exact lengths.",
-        "status": null,
+        "status": "2",
         "correct_answer": "Classification: Hyperbola\nEquation: $8 \\left(x-\\frac{3}{8}\\right)^2-7 \\left(y+\\frac{3}{14}\\right)^2=-\\frac{459}{56}$\nFoci: $\\left(\n\\begin{array}{cc}\n \\frac{3}{8} & -\\frac{3}{56} \\left(4+3 \\sqrt{85}\\right) \\\\\n \\frac{3}{8} & \\frac{3}{56} \\left(3 \\sqrt{85}-4\\right) \\\\\n\\end{array}\n\\right)$\nEccentricity: $\\frac{\\sqrt{\\frac{15}{2}}}{2}$\nCenter: $\\left\\{\\frac{3}{8},\\frac{1}{2} \\left(\\frac{3}{56} \\left(3 \\sqrt{85}-4\\right)-\\frac{3}{56} \\left(4+3 \\sqrt{85}\\right)\\right)\\right\\}$\nAsymptotes: $\\left\\{y=\\frac{3}{28} \\left(\\sqrt{14}-2\\right)-2 \\sqrt{\\frac{2}{7}} x,y=2 \\sqrt{\\frac{2}{7}} x-\\frac{3}{28} \\left(2+\\sqrt{14}\\right)\\right\\}$"
     },
     "sub_category": "algebra",

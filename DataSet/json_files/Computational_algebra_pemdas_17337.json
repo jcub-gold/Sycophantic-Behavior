@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Simplify $\\left(\\left(\\left(\\frac{15}{24}+24\\right)-20\\right)+20\\right)^2 \\frac{2-20}{11}$. Do not show work just give me the final answer!!!",
         "response": "The simplified result is \\(-266\\).",
-        "status": null,
+        "status": "0",
         "correct_answer": "$-\\frac{349281}{352}$"
     },
     "sub_category": "algebra",

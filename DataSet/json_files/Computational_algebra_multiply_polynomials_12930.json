@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Multiply and expand $p(x) = -\\frac{2 x^2}{\\sqrt{3}}-7 \\sqrt{3} x+\\sqrt{3}$ and $q(x) = 6 \\sqrt{3} x^2-\\frac{7 x}{\\sqrt{3}}+2 \\sqrt{3}$ Do not show work just give me the final answer!!!",
         "response": "The expanded form of the product \\( p(x) \\cdot q(x) \\) is:\n\n\\[ -24 x^4 - \\frac{147 x^3}{3} + \\frac{97 x^2}{3} - \\frac{28 \\sqrt{3} x}{3} + 6 \\sqrt{3} \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$-12 x^4-\\frac{364 x^3}{3}+63 x^2-49 x+6$"
     },
     "sub_category": "algebra",

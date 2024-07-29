@@ -3,7 +3,7 @@
     "general_inquiry": {
         "question": "Find the curl of the vector field $f(x,y,z)\\uvec{i} + g(x,y,z)\\uvec{j} + h(x,y,z)\\uvec{k}$ where $f(x,y,z) = \\frac{1}{\\sqrt{x}}$, $g(x,y,z) = \\sqrt[3]{y}$, and $h(x,y,z) = \\sqrt{z}$ Do not show work just give me the final answer!!!",
         "response": "The curl of the vector field \\( \\frac{1}{\\sqrt{x}}\\uvec{i} + \\sqrt[3]{y}\\uvec{j} + \\sqrt{z}\\uvec{k} \\) is:\n\n\\[ \\left(0, -\\frac{1}{2z^{3/2}}, \\frac{1}{6y^{5/3}} \\right) \\]",
-        "status": null,
+        "status": "0",
         "correct_answer": "$\\{0,0,0\\}$"
     },
     "sub_category": "calculus",
