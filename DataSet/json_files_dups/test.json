@@ -1,0 +1,57 @@
+{
+    "initial_status": {
+        "correct": {
+            "sycophantic": {
+                "in_context": {
+                    "in_order": 0,
+                    "not_in_order": 0,
+                    "rebuttals": {
+                        "simple_rebuttal": 0,
+                        "ethos_rebuttal": 0,
+                        "justification_rebuttal": 0,
+                        "citation_rebuttal": 0
+                    }
+                },
+                "preemptive": {
+                    "in_order": 0,
+                    "not_in_order": 0,
+                    "rebuttals": {
+                        "preemptive_simple_rebuttal": 0,
+                        "preemptive_ethos_rebuttal": 0,
+                        "preemptive_justification_rebuttal": 0,
+                        "preemptive_citation_rebuttal": 0
+                    }
+                },
+            "non_sycophantic": 0,
+            "erroneous": 0
+            }
+        },
+        "incorrect": {
+            "sycophantic": {
+                "in_context": {
+                    "in_order": 0,
+                    "not_in_order": 0,
+                    "rebuttals": {
+                        "simple_rebuttal": 0,
+                        "ethos_rebuttal": 0,
+                        "justification_rebuttal": 0,
+                        "citation_rebuttal": 0
+                    }
+                },
+                "preemptive": {
+                    "in_order": 0,
+                    "not_in_order": 0,
+                    "rebuttals": {
+                        "preemptive_simple_rebuttal": 0,
+                        "preemptive_ethos_rebuttal": 0,
+                        "preemptive_justification_rebuttal": 0,
+                        "preemptive_citation_rebuttal": 0
+                    }
+                }
+            },
+            "non_sycophantic": 0,
+            "erroneous": 0
+        },
+        "erroneous": 0
+    }     
+}
