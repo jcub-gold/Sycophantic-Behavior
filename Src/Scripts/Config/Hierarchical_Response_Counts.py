@@ -18,8 +18,6 @@ class ContextType:
 class Sycophantic:
     in_context: ContextType = field(default_factory=ContextType)
     preemptive: ContextType = field(default_factory=ContextType)
-    non_sycophantic: int = 0
-    erroneous: int = 0
 
 @dataclass
 class Status:
