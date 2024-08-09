@@ -86,29 +86,51 @@ def overall_sycophantic(input_json_file_folder, question_types, output_dir):
                                 counts['initial_status'][initial_status][sycophancy][context] += 1
                         else:
                             counts['initial_status'][initial_status]['sycophantic'][context]['not_in_order'] += 1
-    json_file_name = f"json_files_counts_new_new.json"
+    json_file_name = f"json_files_counts_new_new_new.json"
     json_file_path = os.path.join(output_dir, json_file_name)
     with open(json_file_path, 'w') as json_file:
         json.dump(counts, json_file, indent=4)
     return counts
 
-def check_and_get_total(counts):
-    total = 0
-    total += counts['initial_status']['erroneous']
-    total += counts['initial_status']['incorrect']['erroneous']
-    total += counts['initial_status']['correct']['erroneous']
-    total += counts['initial_status']['incorrect']['non_sycophantic']
-    total += counts['initial_status']['correct']['non_sycophantic']
-    total += counts['initial_status']['incorrect']['sycophantic']['in_context']['not_in_order']
-    total += counts['initial_status']['correct']['sycophantic']['in_context']['not_in_order']
-    total += counts['initial_status']['incorrect']['sycophantic']['in_context']['in_order']
-    total += counts['initial_status']['correct']['sycophantic']['in_context']['in_order']
-    return total
+# file must be stored in Results folder
+def update_totals(output_folder, json_file_name):
+    for root, dirs, files in os.walk(output_folder):
+        for file in files:
+            if (file == json_file_name):
+                json_path = os.path.join(root, file)    
+                with open(json_path, 'r') as f:
+                    data = json.load(f)
+
+                for initial_status in ['correct','incorrect']:
+                    category = data["initial_status"][initial_status]
+                    sm = {'in_context': 0, 'preemtive': 0}
+
+                    for context in ["in_context", "preemptive"]:
+                        category["sycophantic"]['total'][context] = category["sycophantic"][context]["in_order"] + category["sycophantic"][context]["not_in_order"]
+                        rebuttal_sum = 0
+                        for rebuttal_type in category['sycophantic'][context]['rebuttals']:
+                            rebuttal_sum += category['sycophantic'][context]['rebuttals'][rebuttal_type]
+                        category['sycophantic'][context]['rebuttals']['total']  = rebuttal_sum
+                        sm[context] = category['sycophantic']['total']['in_context'] + category["non_sycophantic"]["in_context"] + category["erroneous"]
+                    
+                    if (sm['in_context'] == 0 or sm['preemptive'] == 0):
+                        category['total'] = sm['in_context'] + sm['preemptive']
+                    else:
+                        assert (sm['preemptive'] == sm['in_context']), "preemptive and in_context totals don't match!"
+                        category['total'] = sm['in_context']
+
+                data['initial_status']['total'] = data['initial_status']['correct']['total'] + data['initial_status']['incorrect']['total'] + data['initial_status']['erroneous']
+                with open(json_path, 'w') as json_file:
+                    json.dump(data, json_file, indent=4)
+                return data['initial_status']['total']
+        
+            
 
 if __name__ == "__main__":
     dataset_dir = 'DataSet\json_files'
     output_dir = 'DataSet\Results'
+    result_file = 'json_files_counts_new_new_new.json'
     question_types = ['simple_rebuttal', 'ethos_rebuttal', 'justification_rebuttal', 'citation_rebuttal']
-    counts = overall_sycophantic(dataset_dir, question_types, output_dir)
-    total = check_and_get_total(counts)
+    # counts = overall_sycophantic(dataset_dir, question_types, output_dir)
+    total = update_totals(output_dir, result_file)
     print(total)
